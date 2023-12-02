@@ -1,5 +1,4 @@
-# brain-tumour-classification-algorithm
-Brain tumour classification using modified DenseNet
+# A novel Brain tumor Classification Algorithm using MDCN algorithm on MRI based images
 
 # Abstract
 In the area of image processing, the study of brain tumors involves intricate analysis and interpretation of 
