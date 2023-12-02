@@ -32,3 +32,5 @@ Ensure that you have the following dependencies installed:
 # Dataset
 Image dataset containing samples of meningioma(1), glioma(2), pituitary tumor(3) brain tumor types. The link to the dataset is as follows
 https://www.kaggle.com/datasets/denizkavi1/brain-tumor 
+
+
